@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/messages.pot\n"
 "X-Crowdin-File-ID: 188\n"
-"Language: uk_UA\n"
+"Language: uk_UK\n"
 
 #: CTFd/challenges.py:38
 msgid "Challenge Visibility is set to Admins Only"
